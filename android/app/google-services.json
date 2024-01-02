@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628817072535",
+    "project_id": "authentificatinnnfiebase",
+    "storage_bucket": "authentificatinnnfiebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628817072535:android:355b1963739221adabb4d2",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthentificationnn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628817072535-r2ff0ls3hoobm54bbih5eekq7pned4o2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseauthentificationnn",
+            "certificate_hash": "c68547c2e6d83f6f9de0d72121f4358f30243a6c"
+          }
+        },
+        {
+          "client_id": "628817072535-0vnfu8i26oktki3srq0sb2bqa24m3pd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaaqGdtQm-toGVU37aV6Q_4rAwNo849zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628817072535-0vnfu8i26oktki3srq0sb2bqa24m3pd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
